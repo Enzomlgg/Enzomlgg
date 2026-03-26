@@ -1,5 +1,3 @@
-<h2 align="center">Enzo Losi</h2>
-
 ###
 
 <div align="center">
